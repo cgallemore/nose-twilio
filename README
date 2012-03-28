@@ -1,0 +1,3 @@
+A nose plugin to be used in conjunction with testing twilio applications.  By
+extending your test case with TwilioTestCase, this plugin will only run those
+tests with --twilio-select passed in to nose.
