@@ -6,7 +6,7 @@ README = open(os.path.join(os.path.dirname(__file__), 'README')).read()
 version = 0.1
 
 setup(
-    name="nose-twilio",
+    name="NoseTwilio",
     version=version,
     description="Nose plugin to only run TwilioTestCase tests",
     long_description=README,
